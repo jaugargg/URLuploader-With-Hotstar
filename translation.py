@@ -21,7 +21,7 @@ Owner : @itzmeaaryan
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
 
-Owner : @itzmeaaryan
+Owner : @itzmeaaryan 
 """
 
     FORMAT_SELECTION = """Select the desired format: <a href='{}'>file size might be approximate</a>
@@ -49,7 +49,7 @@ URL | newfilename | username | password"""
 
     SLOW_URL_DECED = "Gosh that seems to be a very slow URL. Since you were screwing my home, I am in no mood to download this file. Meanwhile, why don't you try this:==> https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
 
-    NO_VOID_FORMAT_FOUND = "ERROR...\n<b>YouTubeDL</b> said: {}"
+    NO_VOID_FORMAT_FOUND = "ERROR...\n<b>Link</b> said: {}"
     
     SHOW_THUMB = "Use /deletethumbnail to clear this thumbnail."
     
