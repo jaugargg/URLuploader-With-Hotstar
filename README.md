@@ -27,6 +27,5 @@ ALL CREDITS GOES TO ME :)
 
 * /start             - Check if bot is alive
 * /help              - To know how the bot works
-* /upgrade           - Nothing much here
 * /deletethumbnail   - Clear saved thumbnail
 * /showthumb         - Show saved thumbnail
