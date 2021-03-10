@@ -11,7 +11,7 @@ This is a Telegram URL Upload Bot!
 Owner : @itzmeaaryan
 """
 
-    HELP_USER = """Hai I'am a URL Uploader bot..
+    HELP_USER = """Hi I'am a URL Uploader bot..
     
 1. Send url (Link | New Name with Extension).
 2. Send Custom Thumbnail (Optional).
@@ -35,7 +35,7 @@ URL | newfilename | username | password"""
     
     DOWNLOAD_START = "Trying to download your file..."
     
-    UPLOAD_START = "Uploading now.."
+    UPLOAD_START = "Uploading wait"
     
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \n\nUploaded in {} seconds."
 
